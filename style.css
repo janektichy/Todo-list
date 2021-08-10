@@ -27,3 +27,7 @@ li {
     font-family: 'Roboto Mono';
     margin-left: -150px;
 }
+
+.crosed {
+    text-decoration: line-through;
+}
